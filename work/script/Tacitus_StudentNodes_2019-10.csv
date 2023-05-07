@@ -1,216 +1,120 @@
-﻿"ID","Size","","Source","Type","Target","Citation","Signficance","Approximate Date of Interaction"
-"26","1","Edit","Valerius Asiaticus","has martial or adversarial interaction with","Poppaea","11.01","former lover",""
-"162","1","Edit","Messalina","has martial or adversarial interaction with","Valerius Asiaticus","11.01","successful imprisonment",""
-"245","1","Edit","Claudius","sends written communication to","Crispinus","11.01","sends to baiae",""
-"259","1","Edit","Crispinus","has martial or adversarial interaction with","Valerius Asiaticus","11.01","imprisons valerius",""
-"310","1","Edit","Sosibius","has peaceful, familial or conversational interaction with","Britannicus","11.01","tutored",""
-"314","1","Edit","Sosibius","has peaceful, familial or conversational interaction with","Suillius","11.01","associates",""
-"338","1","Edit","Sosibius","is a group member of","Tutors","11.01","Is a tutor for Britannicus",""
-"347","1","Edit","Suillius","is a group member of","Tutors","11.01","Is a tutor",""
-"349","1","Edit","Sosibius","has peaceful, familial or conversational interaction with","Claudius","11.01","He spreads rumors about Valerius Asiaticus, and warns Claudius",""
-"428","1","Edit","Valerius Asiaticus","has martial or adversarial interaction with","Gaius Caesar","11.01","main cause of gaius caesar's death",""
-"405","1","Edit","scipio","has peaceful, familial or conversational interaction with","Claudius","11.02","told claudius of poppaea's death",""
-"391","1","Edit","Claudius","has peaceful, familial or conversational interaction with","Valerius Asiaticus","11.03","compassionate before planned execution",""
-"357","1","Edit","Sosibius","participates in","senate awards funds","11.04","exemplifies claudius' influence on senate",""
-"369","1","Edit","Crispinus","participates in","senate awards funds","11.04","exemplifies claudius' influence on senate",""
-"101","1","Edit","Samius","has peaceful, familial or conversational interaction with","Suillius","11.05","Samius gives money to Suillius",""
-"177","1","Edit","Cincian Law","","Suillius","11.05","Gaius Silius is prosecuting Suillius using this law",""
-"153","1","Edit","Gaius Silius","has martial or adversarial interaction with","Suillius","11.06","Gaius Silius is prosecuting Suillius",""
-"213","1","Edit","Suillius","has peaceful, familial or conversational interaction with","Claudius","11.06","Suillius begs for pardon for his past actions",""
-"267","1","Edit","Publius Clodius","has peaceful, familial or conversational interaction with","Claudius","11.07","Also begs for his pardon. Claudius changes the law",""
-"283","1","Edit","Cincian Law","has martial or adversarial interaction with","Publius Clodius","11.07","Prosecuted with this law",""
-"299","1","Edit","Claudius","participates in","Cincian Law","11.07","Changes the law so that limited fees can be accepted",""
-"6","1","Edit","Claudius","has peaceful, familial or conversational interaction with","Nero","11.11","Claudius adopts Lucius Domitius (aka Nero); Nero is placed as heir above Claudius's own biological son (12:25)",""
-"431","1","Edit","Britannicus","participates in","Secular Games","11.11","Put on the ""Game of Troy"", in the Circus.",""
-"32","2","Edit","Germanicus","has peaceful, familial or conversational interaction with","Nero","11.12","Nero was Germanicus' sole male descendant",""
-"62","3","Edit","Agrippina","has peaceful, familial or conversational interaction with","Nero","11.12","Mother of Nero",""
-"92","1","Edit","Messalina","has martial or adversarial interaction with","Agrippina","11.12","Always hated Agrippina, more so as time passes",""
-"133","2","Edit","Messalina","makes visit to","Gaius Silius","11.12","Crazy in love with Gaius Silius",""
-"160","2","Edit","Junia Silana","has martial or adversarial interaction with","Messalina","11.12","Messalina chases Junia away from Gaius Selinus in jealousy of their relationship",""
-"201","2","Edit","Gaius Silius","has peaceful, familial or conversational interaction with","Junia Silana","11.12","Married",""
-"384","1","Edit","Nero","participates in","Adultery","11.12","Has an affair with a freedwoman (Acte)",""
-"229","1","Edit","Claudius","participates in","Roman Law","11.13","Creates Edicts on public misconduct, and added new alphabet for everyday use",""
-"248","1","Edit","The Egyptians","has peaceful, familial or conversational interaction with","Claudius","11.13","Give Claudius inspiration for new alphabet",""
-"272","1","Edit","Cadmus","has peaceful, familial or conversational interaction with","The Greek People","11.14","Helps them become less ""barbaric""",""
-"293","1","Edit","Cadmus","has peaceful, familial or conversational interaction with","Phoenicians","11.14","Cadmus arrives to Greece with a Phoenician fleet.",""
-"303","1","Edit","The Egyptians","has peaceful, familial or conversational interaction with","Phoenicians","11.14","First gives written language to Phoenicians",""
-"316","1","Edit","The Egyptians","has peaceful, familial or conversational interaction with","Alphabet","11.14","Create the Alphabet that will be used",""
-"386","1","Edit","Sosibius","has martial or adversarial interaction with","Valerius Asiaticus","11.2","Accuses him of corrupting the troops, bribery, sexual misconduct",""
-"427","1","Edit","Poppaea","participates in","Suicide","11.2","Messalina bribed people to drive her to suicide",""
-"265","1","Edit","Aemilius Mamercus","participates in","The Roman People","11.22","They were the first elected Quaestors after the expulsion of Tarquinius Superbus",""
-"286","1","Edit","Gnaeus Nonius","has martial or adversarial interaction with","Claudius","11.22","Was discovered to be carrying a weapon in the presence of the Emperor; tortured",""
-"331","1","Edit","Aemilius Mamercus","is a group member of","Quaestor","11.22","was one of the first Queastors",""
-"361","1","Edit","Valerius Potitus","is a group member of","Quaestor","11.22","was one of the first",""
-"367","1","Edit","Valerius Potitus","has peaceful, familial or conversational interaction with","Aemilius Mamercus","11.22","Worked together as first Quaestors",""
-"416","1","Edit","Roman Military","has peaceful, familial or conversational interaction with","Quaestor","11.22","Was overseen by Quaestor financially",""
-"223","1","Edit","The Gallic Tribes","has martial or adversarial interaction with","The Roman People","11.23","The Gauls and the Romans fought many wars throughout the Republican Era",""
-"241","1","Edit","Aedui","is a group member of","The Gallic Tribes","11.23","Aedui were one of the most prominent tribes of all the Gauls",""
-"159","1","Edit","Aedui","participates in","The Senate","11.24","Becomes the first Gallic tribe to be represented in the Senate",""
-"172","1","Edit","Aedui","sends written communication to","Claudius","11.24","Invited by Claudius to send representatives to the Roman Senate",""
-"107","1","Edit","Vipstanus","sends written communication to","Claudius","11.25","Proposes Claudius be named ""Father of the Senate""",""
-"257","1","Edit","New Patrician Families","sends written communication to","Claudius","11.25","Claudius added new families to the ranks of the Patricians because many of the old Patrician families had died out",""
-"294","1","Edit","Messalina","participates in","Adultery","11.26","With Silius",""
-"315","1","Edit","Gaius Silius","participates in","Adultery","11.26","With Messalina",""
-"330","1","Edit","Messalina","participates in","Marriage","11.26","Polygamous marriage (she was still married to Claudius)",""
-"335","1","Edit","Gaius Silius","participates in","Marriage","11.26","marries Messalina when she is still married to Claudius",""
-"161","1","Edit","Narcissus","participates in","Callistus","11.29","Discussed methods of curbing Messalina's lecherous appetite",""
-"195","1","Edit","Callistus","has peaceful, familial or conversational interaction with","Pallas","11.29","Discussed methods of curbing Messalina's lecherous appetite",""
-"230","1","Edit","Pallas","participates in","Narcissus","11.29","Discussed methods of curbing Messalina's lecherous appetite",""
-"252","1","Edit","Ostia","makes visit to","Claudius","11.29","Stays there for awhile",""
-"322","1","Edit","Callistus","participates in","Gaius Caesar","11.29","Caesar assasinated",""
-"324","1","Edit","Narcissus","participates in","Appius","11.29","Narcissus assasinated Appius",""
-"16","1","Edit","Calpurnia","makes visit to","Claudius","11.30","Given private audience to declare Messalina has married Silius.",""
-"327","2","Edit","Narcissus","has peaceful, familial or conversational interaction with","Claudius","11.30","Narcissus asks Claudius for a pardon for his past conduct because he received treacheries from Claudius. Also, he backs up the idea that Messalina marries Silius.",""
-"396","1","Edit","Cleopatra","has peaceful, familial or conversational interaction with","Calpurnia","11.30","Cleopatra was present for this interaction, and she already knew of the marriage between Messalina and Silius before Calpurnia notified her",""
-"404","1","Edit","Cleopatra","has peaceful, familial or conversational interaction with","Claudius","11.30","Is in the presence of Claudius when he is notified of Messalina and Claudius's marriage",""
-"63","1","Edit","Claudius","has peaceful, familial or conversational interaction with","Turranius","11.31","Claudius summons Turranius over whether he is being adulterous",""
-"142","1","Edit","Claudius","has martial or adversarial interaction with","Lusius Geta","11.31","summons Lusius to confront about adultery (he confesses)",""
-"199","1","Edit","Claudius","has peaceful, familial or conversational interaction with","Britannicus","11.32","Claudius is father of Britannicus",""
-"228","1","Edit","Octavia","has peaceful, familial or conversational interaction with","Britannicus","11.32","siblings",""
-"247","1","Edit","Messalina","has peaceful, familial or conversational interaction with","Britannicus","11.34","Messalina is the mother of Britannicus",""
-"258","1","Edit","Messalina","has peaceful, familial or conversational interaction with","Octavia","11.34","Messalina is the mother of Octavia",""
-"33","2","Edit","Narcissus","has peaceful, familial or conversational interaction with","Claudius","11.34; 11.35; 11:37","Pressures Claudius to acknowledge Messalina's adultery. Takes Claudius to Messalina's home to discovery evidence of her infidelity. Order's centurions and tribune to go through with Messalina's execution.",""
-"255","1","Edit","Titius Proculus","has peaceful, familial or conversational interaction with","Messalina","11.35","Guardian appointed by Sillius.",""
-"158","1","Edit","Messalina","has martial or adversarial interaction with","Narcissus","11.37","Narcissus orders Messalina's execution.",""
-"268","1","Edit","Lepida","has peaceful, familial or conversational interaction with","Messalina","11.37","Comes to her condemned daughter and urges her to die honorably and commit suicide.",""
-"318","1","Edit","Garden of Lucullus","makes visit to","Messalina","11.37","Where Messalina hides from execution and is visited by her mother Lepida.",""
-"319","1","Edit","Garden of Lucullus","makes visit to","Lepida","11.37","Visits her condemned daughter there.",""
-"334","1","Edit","Narcissus","participates in","Political Murder","11.37","Murdered Claudius' wife for adultery",""
-"346","1","Edit","Messalina","participates in","Political Murder","11.37","Murdered on the orders of Narcissus for adultery.",""
-"407","1","Edit","Euodus","has martial or adversarial interaction with","Messalina","11.37","He is in charge of making sure she is dead.",""
-"30","1","Edit","Claudius","has martial or adversarial interaction with","Messalina","11.38","3rd Wife of Claudius who tries to kill herself but is killed by a tribune.",""
-"336","1","Edit","The Senate","has martial or adversarial interaction with","Messalina","11.38","The senate helps to erase the memory of Messalina by removing statues of her and her name.",""
-"345","1","Edit","The Senate","has peaceful, familial or conversational interaction with","Narcissus","11.38","The senate grants Narcissus the position of Quaestor.",""
-"406","1","Edit","Vitellius","has peaceful, familial or conversational interaction with","Sosibius","11.4","Gives 1 million sesterces for tutoring Britannicus",""
-"353","3","Edit","Pallas","has peaceful, familial or conversational interaction with","Agrippina","12.01","Pallas supports the possibility for her to become Claudius' 4th wife because she would bring the grandson of Germanicus with her.",""
-"167","1","Edit","Agrippina","has martial or adversarial interaction with","Lollia Paulina","12.01-03, 12.22","Both eligible wives for Claudius in competition with each other. Agripina has Lollia exiled.",""
-"397","2","Edit","Claudius","has peaceful, familial or conversational interaction with","Lucius Silanus","12.03","Claudius promises Lucius Silanus Octavia's hand in marriage.",""
-"251","2","Edit","Agrippina","has martial or adversarial interaction with","Octavia","12.03 (Domitius)","Tried to marry her to Nero for family connections and increase power.",""
-"21","1","Edit","Vitellius","has peaceful, familial or conversational interaction with","Agrippina","12.04","Schemes with her to try to gain her favor.",""
-"91","1","Edit","Vitellius","","Lucius Silanus","12.04","Accuses him of an indiscreet relationship with Junia Calvina as a pretext to remove him from his office.",""
-"164","2","Edit","Claudius","has martial or adversarial interaction with","Lucius Silanus","12.04","Breaks off Silanus' engagement to Octavia after Vitellius accused Silanus of an indiscreet relationship with his own sister.",""
-"366","1","Edit","Junia Calvina","has peaceful, familial or conversational interaction with","Vitellius","12.04","Junia Calvina had been the daughter-in-law of Vitellius",""
-"371","1","Edit","Junia Calvina","has peaceful, familial or conversational interaction with","Lucius Silanus","12.04","Junia Calvina was the sister of Lucius Silanus",""
-"231","1","Edit","Vitellius","has peaceful, familial or conversational interaction with","Claudius","12.05","Attempts to help Claudius gain popular support for his relationship with Agrippina.",""
-"242","2","Edit","Vitellius","participates in","The Senate","12.05-12.06","Speaks to the senate to convince them to support Claudius' marriage to Agrippina.",""
-"342","2","Edit","Vitellius","participates in","The Senate","12.06","Vitellius works toward convincing the Senate to legalize incestuous marriages.",""
-"98","2","Edit","Alledius Severus","has martial or adversarial interaction with","Agrippina","12.07","Wants a romantic relationship",""
-"264","1","Edit","The Senate","makes visit to","Claudius","12.07","After Vitellius' speech, goes to Claudius entreating him to marry Agrippina. Also make such a relationship between uncle and niece legal.",""
-"312","2","Edit","Alledius Severus","has peaceful, familial or conversational interaction with","Agrippina","12.07","Sought a marriage with his own niece, as Claudius had to Agrippina, in order to ingratiate himself to Agrippina.",""
-"356","1","Edit","Alledius Severus","participates in","The Senate","12.07","Severus appeals to the Senate to legalize marriage between uncles and nieces.",""
-"144","1","Edit","Annaeus Seneca","is a group member of","Nero","12.08","The advisor to Nero",""
-"157","2","Edit","Agrippina","has peaceful, familial or conversational interaction with","Annaeus Seneca","12.08","Agrippina did not want him exiled",""
-"341","1","Edit","Annaeus Seneca","participates in","Exiled","12.08","Seneca was exiled by Nero",""
-"192","2","Edit","Octavia","has martial or adversarial interaction with","Nero","12.09","Octavia and Nero become engaged, Nero becomes son-in-law of Augustus",""
-"266","1","Edit","Lucius Volusius","has peaceful, familial or conversational interaction with","Lollia Paulina","12.22","Uncle",""
-"278","1","Edit","Cotta Messalinus","has peaceful, familial or conversational interaction with","Lollia Paulina","12.22","Great uncle",""
-"291","1","Edit","Memmius Regulus","has martial or adversarial interaction with","Lollia Paulina","12.22","Ex-husband of Lollia",""
-"313","1","Edit","Agrippina","has martial or adversarial interaction with","Calpurnia","12.22","Agrippina has Calpurnia exiled",""
-"355","1","Edit","Calpurnia","participates in","Exiled","12.22","Agrippina exiled Calpurnia because Claudius complemented Calpurnias looks",""
-"382","1","Edit","Lollia Paulina","participates in","Exiled","12.22","Agrippina has Lollia exiled because they competed to marry Claudius",""
-"180","1","Edit","Pomerium","participates in","Claudius","12.23","Person who expands it.",""
-"99","1","Edit","Agrippina","participates in","Ubii","12.27","She establishes a military colony here and was born here.",""
-"325","1","Edit","Agrippa","has peaceful, familial or conversational interaction with","Agrippina","12.27","Grandfather of Aggrippina",""
-"418","1","Edit","Agrippina","has peaceful, familial or conversational interaction with","The Roman People","12.27","creates a colony for veterans to show support of allied people; Ubii",""
-"419","1","Edit","Agrippa","has peaceful, familial or conversational interaction with","Ubii","12.27","Agrippa was born in Ubii",""
-"233","1","Edit","Lollia Paulina","has martial or adversarial interaction with","Claudius","12.38","Possible wife.",""
-"154","3","Edit","Britannicus","has martial or adversarial interaction with","Nero","12.41","insults by calling him by his pre adopted name",""
-"197","1","Edit","The Senate","participates in","The Senate","12.41","He is gifted the consulship, and granted the title ""Prince of the youth""",""
-"246","1","Edit","Agrippina","has martial or adversarial interaction with","Claudius","12.41","Reported news of the insult to Britannicus",""
-"285","1","Edit","Agrippina","has martial or adversarial interaction with","Praetorian Guard","12.42","She dismisses Lucius Geta and Rufirus Crispinus because she wanted the guard under the command of Burus Afranius",""
-"317","1","Edit","Junius Lupus","has martial or adversarial interaction with","Vitellius","12.42","Accuses him of treason",""
-"388","1","Edit","Quintus Veranius","has peaceful, familial or conversational interaction with","Gaius Pompeius","12.5","Served as Consuls together",""
-"12","2","Edit","Nero","has martial or adversarial interaction with","Octavia","12.58","Marriage to Claudius' daughter",""
-"31","1","Edit","Claudius","has peaceful, familial or conversational interaction with","Octavia","12.58","Daughter of Claudius, wife of Nero",""
-"95","1","Edit","Agrippina","has martial or adversarial interaction with","Statilius Taurus","12.59","Destroyed by Agrippina because she was jealous of his gardens",""
-"131","1","Edit","Tarquitius Priscus","has martial or adversarial interaction with","Statilius Taurus","12.59","Accuser and legate of Statilius Taurus",""
-"152","1","Edit","Tarquitius Priscus","participates in","Agrippina","12.59","Participates in Agrippina's destruction of Statilius Taurus by providing accusation",""
-"269","1","Edit","Egyptian Equestrians","has peaceful, familial or conversational interaction with","Claudius","12.60","Claudius surrendered the entire legal system in Egypt to them",""
-"302","1","Edit","Claudius","has peaceful, familial or conversational interaction with","People of Cos","12.61","Wanted to make the [people of Cos exempt from Roman taxes because he thought they descended from Aesculapius (Roman healing divinity).",""
-"320","1","Edit","Byzantium","sends written communication to","The Senate","12.62-63","Citizens send appeal for relief from heavy taxes. They had fertile soils and rich sea waters, making them a prosperous city, but the heavy taxes burdened their city.",""
-"433","1","Edit","Claudius","has peaceful, familial or conversational interaction with","Byzantium","12.63","Claudius supported their claims becasue they had been a prosperous city",""
-"166","1","Edit","Lepida","has martial or adversarial interaction with","Claudius","12.64","Divorced",""
-"185","1","Edit","Lepida","has martial or adversarial interaction with","Agrippina","12.64","Fighting over influence of Nero",""
-"225","1","Edit","Lepida","has peaceful, familial or conversational interaction with","Nero","12.64","Lepida was trying to gain influence of Nero",""
-"402","1","Edit","Augustus","has peaceful, familial or conversational interaction with","Lepida","12.64","He is her uncle",""
-"254","3","Edit","Pallas","has peaceful, familial or conversational interaction with","Agrippina","12.65","Agrippina's lover",""
-"100","1","Edit","Locusta","has martial or adversarial interaction with","Claudius","12.66","Makes poison that kills Claudius",""
-"328","1","Edit","Narcissus","makes visit to","Sinuessa","12.66","Narcissus got so stressed out that he became ill.",""
-"344","1","Edit","Agrippina","makes visit to","Locusta","12.66","Agrippina turns to Locusta to get poison, to kill Cladius",""
-"352","1","Edit","Locusta","participates in","Poison","12.66","Locusta is the one who supplys the poison",""
-"365","1","Edit","Halotus","participates in","Agrippina","12.66","Helps kill Cladius with poison",""
-"156","1","Edit","Xenophon","participates in","Claudius","12.67","Doctor tasked with saving Claudius, actually delivers poison",""
-"170","1","Edit","Xenophon","is a group member of","Agrippina","12.67","Member of group that kills Claudius",""
-"390","1","Edit","Claudius","participates in","Poison","12.67","Cladius gets poisoned twice",""
-"260","1","Edit","Antonia","has peaceful, familial or conversational interaction with","Britannicus","12.68","Sister of Britannicus",""
-"410","2","Edit","Agrippina","has peaceful, familial or conversational interaction with","Britannicus","12.68","She prevents him from going to see her dead father.",""
-"413","1","Edit","Agrippina","has peaceful, familial or conversational interaction with","Antonia","12.68","Prevented by mother from seeing the dead Cladius",""
-"421","2","Edit","Agrippina","has peaceful, familial or conversational interaction with","Octavia","12.68","Prevented from seeing dead Cladius",""
-"232","1","Edit","Nero Hailed as Emperor","participates in","Nero","12.69","Day Nero takes power",""
-"290","1","Edit","Livia","has peaceful, familial or conversational interaction with","Agrippina","12.69","Lead Agrippina to be more grandiose for Claudius' funeral by being her great grandmother",""
-"414","1","Edit","Claudius","has martial or adversarial interaction with","Junia Calvina","12.8","Banished Junia from Italy",""
-"354","2","Edit","Pallas","has peaceful, familial or conversational interaction with","Nero","12:25","Ensured that Claudius's adoption of Nero went swiftly and smoothly",""
-"363","3","Edit","Agrippina","has peaceful, familial or conversational interaction with","Pallas","12:25","Pallas feels responsible to Agrippina due to being the one to arrange her marriage and their sexual relationship",""
-"383","2","Edit","Pallas","has peaceful, familial or conversational interaction with","Nero","12:25","Ensures that Nero's adoption by Claudius goes swiftly and smoothly by using his relationship with Agrippina as influence",""
-"400","2","Edit","Britannicus","has martial or adversarial interaction with","Agrippina","12:26","Speaks derisively about Agrippina's elevation in status that came with Nero being named Claudius's heir; slowly deprived of station and his slaves",""
-"66","1","Edit","Agrippina","has martial or adversarial interaction with","Junius Silanus","13.01","Killed out of fear and vengeance.",""
-"224","1","Edit","Augustus","has peaceful, familial or conversational interaction with","Junius Silanus","13.01","great great grandfather",""
-"240","1","Edit","Augustus","has peaceful, familial or conversational interaction with","Lucius Silanus","13.01","great great grandfather",""
-"250","1","Edit","Lucius Silanus","has peaceful, familial or conversational interaction with","Junius Silanus","13.01","brothers",""
-"271","1","Edit","Helius","sends written communication to","Publius Celer","13.01","form conspiracy to kill Junius",""
-"284","1","Edit","Helius","has martial or adversarial interaction with","Junius Silanus","13.01","Helius kills Junius by poison",""
-"295","1","Edit","Publius Celer","has martial or adversarial interaction with","Junius Silanus","13.01","Celer (with Helius) kills Junius  by poison",""
-"311","1","Edit","Agrippina","has martial or adversarial interaction with","Narcissus","13.01","frequent quarrels",""
-"395","1","Edit","Helius","participates in","Political Murder","13.01","murders Junius",""
-"403","3","Edit","Nero","has peaceful, familial or conversational interaction with","The Senate","13.05","Senators support Nero's effort to disallow the pleading of a case for payment or gifts & that Quaestors-designate would not be obliged to give gladatorial shows",""
-"163","1","Edit","Quadratus Ummidius","has peaceful, familial or conversational interaction with","Syria","13.08","Syria was governed by Quadratus but local kings favored Corbulo",""
-"298","1","Edit","Armenia","has peaceful, familial or conversational interaction with","Quadratus Ummidius","13.08","Armenian kings were able to respond to Ummidius's orders depending on the needs of war.",""
-"183","1","Edit","Domitius Corbulo","sends written communication to","King Vologaeses","13.09","This messages helped advise the King to pick peace over war.",""
-"239","1","Edit","The Roman Officers","has peaceful, familial or conversational interaction with","Domitius Corbulo","13.09","They liked Corbulo more than Ummidius.",""
-"261","1","Edit","Insteius","has peaceful, familial or conversational interaction with","Quadratus Ummidius","13.09","Centurion appointed by Ummiduis.",""
-"287","1","Edit","Nero","has peaceful, familial or conversational interaction with","Asconius Labeo","13.10","Nero gave him Consular insignia.",""
-"309","1","Edit","Gnaeus Domitius","has peaceful, familial or conversational interaction with","Nero","13.10","His father.",""
-"60","1","Edit","Acte","has martial or adversarial interaction with","Nero","13.12","Nero had many secret meetings with her.",""
-"18","3","Edit","Agrippina","has peaceful, familial or conversational interaction with","Nero","13.13","Relationship not peaceful. Agrippina tries to manipulate Nero unsuccessfully.",""
-"155","2","Edit","Germanicus","has peaceful, familial or conversational interaction with","Nero","13.14","Germanicus the grandfather of Nero.",""
-"169","1","Edit","Germanicus","has peaceful, familial or conversational interaction with","Agrippina","13.14","Germanicus the father of Agrippina.",""
-"198","1","Edit","Afranius Burrus","has peaceful, familial or conversational interaction with","Britannicus","13.14","Burrus wanted Britannicus to be Claudius's successor.",""
-"244","1","Edit","Nero","makes visit to","Julius Pollio","13.15","Plotting to kill his brother Britannicus. He needs the services of Julius' prisoner.",""
-"262","1","Edit","Julius Pollio","makes visit to","Locusta","13.15","Pollio arranges for Locusta's poison to kill Britannicus.",""
-"297","3","Edit","Nero","has martial or adversarial interaction with","Britannicus","13.16","Nero kills Britannicus by having his drink poisoned.",""
-"11","3","Edit","Britannicus","has martial or adversarial interaction with","Nero","13.17","Nero had sexual relations with Britannicus",""
-"93","3","Edit","Nero","has peaceful, familial or conversational interaction with","The Senate","13.17","Nero seeks the support of the Senate following the death of Britannicus",""
-"74","3","Edit","The Senate","has peaceful, familial or conversational interaction with","Nero","13.17/13.10","Nero seeks the support of the Senate following the death of Britannicus. Nero petitions the Senate fora statue of his father Gnaeus Domitius/ refused statues of himself.",""
-"182","2","Edit","Gaius Silius","has martial or adversarial interaction with","Junia Silana","13.19","Junia and Silius were married but broken up by Messalina",""
-"194","2","Edit","Messalina","has martial or adversarial interaction with","Gaius Silius","13.19","Messalina was a home wrecker of Gaius Silius and Junia Silana.",""
-"211","1","Edit","Messalina","has martial or adversarial interaction with","Messalina","13.19","Messalina was a home wrecker of Junia Silana and Gaius Silius.",""
-"221","2","Edit","Messalina","has martial or adversarial interaction with","Junia Silana","13.19","Messalina broke up the marriage between Gaius Silius and Junia Silana",""
-"253","2","Edit","Domitia","has martial or adversarial interaction with","Agrippina","13.19","Agrippina and Domitia have a rivalry",""
-"348","1","Edit","Agrippina","has peaceful, familial or conversational interaction with","Junia Silana","13.19","They were longtime friends who were driven into conflict over the prospect of Junia Silana marrying Sextius Africanus, creating animosity between the two.",""
-"339","1","Edit","Afranius Burrus","has martial or adversarial interaction with","Agrippina","13.21","Presents accusations which had been leveled against Agrappina to her, allowing her a chance to refute them.",""
-"350","2","Edit","Agrippina","has martial or adversarial interaction with","Domitia","13.21","Agrappina accuses Domitia of being the source of accusations against her. Also makes fun of Domitia.",""
-"381","1","Edit","Atimetus","has peaceful, familial or conversational interaction with","Domitia","13.21","Possibly bedfellows of Domitia. Certainly conspiring with her to accuse Agrappina of crimes.",""
-"401","1","Edit","Agrippina","has martial or adversarial interaction with","Accusations leveled against Agrappina","13.21","Agrappina refutes the charges against her and convinces Nero to support her side.",""
-"29","2","Edit","Claudius","has martial or adversarial interaction with","The Roman People","13.22-25","Claudius makes legislation that chastises the Roman public for hurling abuse at Publius Pompeius",""
-"65","1","Edit","Claudius","has peaceful, familial or conversational interaction with","Publius Pompeius","13.24","Claudius defends Publius Pompeius against the abuses of the Roman people",""
-"184","1","Edit","Claudius","has martial or adversarial interaction with","Creditors","13.25","makes legislation to curb the greed of creditors, forbids them from lending money to young men",""
-"94","2","Edit","Claudius","has peaceful, familial or conversational interaction with","The Roman People","13.27","Diverts spring water to the city",""
-"140","1","Edit","Claudius","has peaceful, familial or conversational interaction with","Alphabet","13.28-14.10","adds 3 letters to the Greek alphabet",""
-"89","1","Edit","Quadratus Ummidius","has martial or adversarial interaction with","Domitius Corbulo","13.5-8","Quadratus was worried Corbulo would take over Syria",""
-"289","1","Edit","Syria","has peaceful, familial or conversational interaction with","Domitius Corbulo","13.5-8","Syrian kings were able to respond to Corbulo's commands depending on the needs of war",""
-"61","1","Edit","Nero","has peaceful, familial or conversational interaction with","Domitius Corbulo","13.8","Gave Corbulo charge over Armenia",""
-"227","1","Edit","Domitius Corbulo","has peaceful, familial or conversational interaction with","Armenia","13.8","Corbulo was given charge of securing Armenia for Rome.",""
-"430","1","Edit","Nero","has peaceful, familial or conversational interaction with","Poppaea","14.01","Has a passionate love for her and wishes to marry her.",""
-"59","3","Edit","Nero","has martial or adversarial interaction with","Agrippina","14.04","Nero plots Agrippinas murder",""
-"132","1","Edit","Crepereius Gallus","is a group member of","Agrippina","14.05","Slave; killed in Nero's assassination attempt on Agrippina.",""
-"187","1","Edit","Acerronia","is a group member of","Agrippina","14.05","Killed in Nero's assassination attempt; claims that she is Aggripina and is beaten to death with oars.",""
-"270","2","Edit","Annaeus Seneca","has martial or adversarial interaction with","Agrippina","14.07","Helps Nero plot to cover up assassination attempt on Agrippina",""
-"282","1","Edit","Afranius Burrus","has martial or adversarial interaction with","Nero","14.07","Along with Seneca, helped Nero plot to cover up attempted assassination of Agrippina",""
-"288","1","Edit","Anicetus","has peaceful, familial or conversational interaction with","Nero","14.07","asks to be put in charge of the crime (plotting to kill Agrippina)",""
-"305","1","Edit","Annaeus Seneca","has martial or adversarial interaction with","Afranius Burrus","14.07","Plotted together to cover up Nero's attempt on Agrippina's life",""
-"203","1","Edit","Anicetus","has martial or adversarial interaction with","Agrippina","14.08","Anicetus kills Agrippina",""
-"243","1","Edit","Herculeius","has peaceful, familial or conversational interaction with","Anicetus","14.08","Joins Anicetus to kill Agrippina",""
-"256","1","Edit","Obaritus","has peaceful, familial or conversational interaction with","Anicetus","14.8","Accompanies Anicetus to kill Agrippina",""
-"358","1","Edit","Murder of Agrippina","participates in","Political Murder","14.9-11","Murders his politically ambitious mother, who tried to institute joint rule and was protected by Praetorian Guard.",""
-"385","1","Edit","Agrippina","participates in","Political Murder","14.9-11","Murdered by Nero's men for her political ambitions of joint rule.",""
-"429","1","Edit","Tacitus","has peaceful, familial or conversational interaction with","Students in this class","Self-evident","Learning",""
+﻿Degrees,Label,Type,Significance
+1,Accusations leveled against Agrappina,Event,"A group of people leveled accusations against Agrappina, trying to turn Nero against her and bring her down."
+1,Acerronia,Woman,Female slave of Agrippina
+1,Acte,Woman,Freedwoman that Nero had an affair with.
+3,Adultery,Thing,a common thread
+3,Aedui,Group,One of the prominent Gallic Tribes
+3,Aemilius Mamercus,Man,One of two Quaestors elected sixty-three years after founding of the Republic
+4,Afranius Burrus,Man,Advised Nero during his youth on military and moral matters. Disagreed with Agrippina on the succession of Claudius.
+2,Agrippa,Man,Grandfather of Agrippina
+43,Agrippina,Woman,Nero’s mother and Claudius’ last wife
+3,Alledius Severus,Man,The uncle of Agrippina
+2,Alphabet,Thing,13.28
+4,Anicetus,Man,Asked to kill Agrippina
+5,Annaeus Seneca,Man,Adviser to Nero in his youth with his oratorical and cordiality skills
+2,Antonia,Woman,Sister of Britannicus
+1,Appius,Man,Assassinated by Narcissus
+2,Armenia,Place,Governed by Domitius Corbulo
+1,Asconius Labeo,Man,The guardian of Nero.
+1,Atimetus,Man,Freedman of Domitia.
+3,Augustus,Man,"Former Roman emperor, deified."
+12,Britannicus,Man,Nero’s brother from another mother
+2,Byzantium,Place,City founded by Greeks with fertile soil and prosperous seas
+2,Cadmus,Man,learns language
+3,Callistus,Man,assasinated Gaius Caesar
+4,Calpurnia,Woman,Prostitute
+3,Cincian Law,Thing,Forbade the acceptance of money or a gift for pleading a case
+44,Claudius,Man,
+2,Cleopatra,Man,Was with Claudius when Calpurnia notified of the marriage between Messalina and Silius
+1,Cotta Messalinus,Man,Great Uncle of Lollia
+1,Creditors,Group,13.25
+1,Crepereius Gallus,Man,Male slave to Agrippina; killed during Nero’s assassination attempt.
+3,Crispinus,Man,praetorian guard
+3,Domitia,Woman,
+6,Domitius Corbulo,Man,Responsible for the military campaign in Armenia.
+1,Egyptian Equestrians,Group,Claudius surrendered the legal system to them
+1,Euodus,Man,In charge of overseeing Messalina’s death.
+3,Exiled,Event,
+2,Gaius Caesar,Man,Former emperor
+1,Gaius Pompeius,Man,Consul of Rome
+7,Gaius Silius,Man,"best-looking of rome’s young men, Messalina liked him. Having affair with Messalina."
+2,Garden of Lucullus,Place,Where Messalina goes to hide from her executors.
+3,Germanicus,Man,
+1,Gnaeus Domitius,Man,Nero’s father.
+1,Gnaeus Nonius,Man,Knight; possibly tried to assassinate the Emperor
+1,Halotus,Man,Taster for imperial dinners. But is aware of the intended poisoning of Cladius.
+3,Helius,Man,Roman freedman
+1,Herculeius,Man,trierarch
+1,Insteius,Man,Centurion appointed by Ummiduis.
+2,Julius Pollio,Man,Tribune of a praetorian cohort.
+3,Junia Calvina,Woman,Attractive and precocious
+5,Junia Silana,Woman,Girlfriend of Agrippina. Noblewoman of Rome. Formerly married to Gaius Silius.
+1,Junius Lupus,Man,Senator
+5,Junius Silanus,Man,Proconsul of Asia. Killed by Agrippina. Was preferred over Nero.
+1,King Vologaeses,Man,"He chose peace over war, supported Rome by supplying them hostages, and put the leading members of the Arsacid house in the Roman’s hands. King of Parthia."
+6,Lepida,Woman,"Wife of Claudius, daughter of Antonia, and rival to Agrippina"
+1,Livia,Woman,Great-Grandmother of Agrippina
+4,Locusta,Woman,Made the poison that killed Claudius
+6,Lollia Paulina,Woman,Wife candidate for Claudius after the murder of Messalina. She had no children so she was the most ideal candidate.
+6,Lucius Silanus,Man,Brother of Junius Silanus. A praetor.
+1,Lucius Volusius,Man,The uncle of Lollia
+1,Lusius Geta,Man,Command of the Praetorians
+2,Marriage,Event,
+1,Memmius Regulus,Man,Ex-husband of Lollia
+20,Messalina,Woman,in the midst of adulterous affair. Third wife of Claudius.
+,Mnester,Man,Actor that Messalina had affections for.
+1,Murder of Agrippina,Event,Penalty for crime she committed
+10,Narcissus,Man,engineered the murder of Appius
+28,Nero,Man,"Lucius Domitius, Emperor of Rome"
+,Nero,Man,Senators support Nero’s effort to disallow the pleading of a case for payment or gifts & that Quaestors-designate would not be obliged to give gladatorial shows
+1,Nero Hailed as Emperor,Event,Nero became Emperor 13th October 54AD
+1,New Patrician Families,Event,Claudius admitted more affluent families into the ranks of the Patricians
+1,Obaritus,Man,a centurian of the marines
+7,Octavia,Woman,"Daughter of Claudius, married Nero in the consulship of Decimus Junius and Quintus Haterus. Also sister to Britannicus and step-sister to Nero."
+1,Ostia,Place,Cladius was on a prolonged stay in…
+7,Pallas,Man,Nero revoked the responsibilities given to Pallas by Claudius.
+1,People of Cos,Group,Group for which Claudius advocated tax exemption.
+2,Phoenicians,Group,Phoenicians
+2,Poison,Thing,Used as a weapon to kill many
+5,Political Murder,Thing,Ways that a political actor may usurp power.
+1,Pomerium,Place,Expanded under the rule of Claudius
+3,Poppaea,Woman,former lover of valerius asiaticus
+1,Praetorian Guard,Group,Bodyguards to the Imperial family
+2,Publius Celer,Man,Roman knight.
+2,Publius Clodius,Man,Senator
+1,Publius Pompeius,Man,13.24
+4,Quadratus Ummidius,Man,Governor of Syria
+3,Quaestor,Group,"Elected position, who’s function is to supervise military finance"
+1,Quintus Veranius,Man,Consul of Rome
+1,Roman Law,Thing,Law
+1,Roman Military,Group,Guardians of Empire/Republic
+1,Samius,Man,Roman Knight
+1,Secular Games,Event,"First put on by Augustus, now Claudius."
+,Sextius Africanus,Man,Young Roman Nobleman
+1,Sinuessa,Place,Narcissus went there when he fell ill to stress.
+7,Sosibius,Man,tutored britanicus
+2,Statilius Taurus,Man,"“Destroyed” by Agrippina because she coveted his gardens, accused by Tarquitius Priscus, wealthy, proconsul in Africa."
+1,Students in this class,Group,It’s us.
+1,Suicide,Event,
+,Suicide,Event,We feel this speaks for itself
+6,Suillius,Man,Senator
+2,Syria,Place,governed by Quadratus Ummidius
+1,Tacitus,Man,Author of the source
+2,Tarquitius Priscus,Man,Accuser and legate of Statilius Taurus
+3,The Egyptians,Group,Group of influential people
+2,The Gallic Tribes,Group,A Celtic Group of Peoples who lived in Gaul (modern-day France)
+1,The Greek People,Group,They were people and they were Greek
+1,The Roman Officers,Group,Their favor caused friction between generals. Left to decide which General they supported more.
+5,The Roman People,Group,"The population of Rome (shocking, I know)"
+13,The Senate,Group,Advising body. AD 53: Received an appeal from the people of Byzantium to releive their heavy tax burden.
+1,Titius Proculus,Man,Guardian for Messalina appointed by Silius. Claudius eventually ordered him to be executed.
+1,Turranius,Man,Prefect of the grain supply
+2,Tutors,Group,Tutors for Britannicus
+2,Ubii,Group,"The main town of a tribe where Agrippina was born, and Agrippa had taken the area under roman protection"
+6,Valerius Asiaticus,Man,former lover of poppaea
+2,Valerius Potitus,Man,One of two Quaestors first elected
+1,Vipstanus,Man,Consul
+8,Vitellius,Man,Censor
+2,Xenophon,Man,Claudius’ doctor
+1,scipio,Man,poppaea’s husband
+2,senate awards funds,Event,money is awarded by the senate to those who advised claudius
